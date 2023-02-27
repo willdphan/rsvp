@@ -1,27 +1,11 @@
-# foundry-template • [![CI](https://github.com/transmissions11/foundry-template/actions/workflows/tests.yml/badge.svg)](https://github.com/transmissions11/foundry-template/actions/workflows/tests.yml)
+# Show Up
 
-Streamlined template for getting started with Foundry and Solmate.
+> Show Up or Pay a Fee
 
-## Contributing
+I was sick of No-shows on Zoom so I made this contract. You have to pay a fee set by the organizer of the meeting in order to chat. You will get the fee back after the organizer verifies if you have attended the meeting. If you attend, you get the fee you paid back. If not, you won't be able to withdraw your payment and the organizer gets to keep some ETH to compensate for their time. So show up!
 
-You will need a copy of [Foundry](https://github.com/foundry-rs/foundry) installed before proceeding. See the [installation guide](https://github.com/foundry-rs/foundry#installation) for details.
+[Contract Source](src)
 
-### Setup
+## License
 
-```sh
-git clone https://github.com/transmissions11/foundry-template.git
-cd foundry-template
-forge install
-```
-
-### Run Tests
-
-```sh
-forge test
-```
-
-### Update Gas Snapshots
-
-```sh
-forge snapshot
-```
+This script is open-source and licensed under the MIT License. For more details, check the [LICENSE](LICENSE) file.
