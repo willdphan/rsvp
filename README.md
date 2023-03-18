@@ -2,7 +2,11 @@
 
 > Show Up or Pay a Fee
 
-I was sick of No-shows on Zoom so I made this contract. You have to pay a fee set by the organizer of the meeting in order to chat. You will get the fee back after the organizer verifies if you have attended the meeting. If you attend, you get the fee you paid back. If not, you won't be able to withdraw your payment and the organizer gets to keep some ETH to compensate for their time. So show up!
+I was sick of No-shows on Zoom so I made this contract.
+You have to pay a fee set by the organizer of the meeting in order to chat. You will get the fee back after the organizer verifies if you have attended the meeting.
+<br/><br/>
+If you attend, you get the fee you paid back. 
+If not, you won't be able to withdraw your payment and the organizer gets to keep some ETH to compensate for their time. So show up!
 
 [Contract Source](src)
 
